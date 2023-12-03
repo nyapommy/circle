@@ -3,4 +3,4 @@ Circle is a little application i made that lets you create shapes in a coordinat
 
 Credits to:
 
-giganlak
+nyapommy
